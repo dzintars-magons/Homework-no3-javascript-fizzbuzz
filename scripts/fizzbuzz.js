@@ -42,5 +42,4 @@
     //         {document.getElementsByClassName("Fizz","Buzz","Fizzbuzz").style.display= "none";}
     //     }
 
-    //asdads
     
